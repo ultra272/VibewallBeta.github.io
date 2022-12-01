@@ -28,3 +28,9 @@ We provide:
 ## Site Development
 - [x] Making a basic information section <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Exclamation%20Mark.png" alt="Red Exclamation Mark" width="25" height="25" />
 - [ ] Getting the website done <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" />
+
+
+## Badges
+[![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
